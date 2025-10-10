@@ -1,6 +1,5 @@
-# Charitree
+# Charitree   <img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/ea44cda4-de74-43a0-b4cb-b2d6d80cc3d6" />
 
-<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/ea44cda4-de74-43a0-b4cb-b2d6d80cc3d6" />
 
 ## A donation app that uses blockchain to enforce transparency | HawkHacks 2024
 
@@ -30,5 +29,6 @@ And here's the code for out Django backend: [cool repo](https://github.com/Kenne
   - **Krish Patel**
   - **Kenneth Ye**
   - **Katherine Liu**
+
 
 
