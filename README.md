@@ -1,7 +1,8 @@
-# Charitree   <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/ea44cda4-de74-43a0-b4cb-b2d6d80cc3d6" />
+# Charitree 
 
-
-## A donation app that uses blockchain to enforce transparency | HawkHacks 2024
+<h1 align="center">
+<img src="https://github.com/user-attachments/assets/ea44cda4-de74-43a0-b4cb-b2d6d80cc3d6" width="300" height="300" style="vertical-align:middle; margin-left:8px;" />
+</h1>
 
 With ChariTree, charities and donations are no longer a black box. Using our own subnet, we allow users to donate cryptocurrency, view exactly how charities spend their money, and keep track of their donation metrics. With the immutability of transactions and transparent nature, ChariTree instills trust between people and businesses one block at a time.
 
@@ -30,6 +31,7 @@ And here's the code for out Django backend: [cool repo](https://github.com/Kenne
   - **Krish Patel**
   - **Kenneth Ye**
   - **Katherine Liu**
+
 
 
 
