@@ -1,4 +1,6 @@
-# ChariTree
+# Charitree
+
+<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/ea44cda4-de74-43a0-b4cb-b2d6d80cc3d6" />
 
 ## A donation app that uses blockchain to enforce transparency | HawkHacks 2024
 
@@ -19,7 +21,8 @@ As for next steps, stay tuned! We definitely have more tracking and analytics fe
 
 Huge thanks to the team and for struggling together
 
-Here's the code for out Django backend: [cool repo](https://github.com/Kenneth-Ye/ChariTree)
+Here's a demo video: https://www.youtube.com/watch?v=IFRKRrIsCZo&feature=youtu.be
+And here's the code for out Django backend: [cool repo](https://github.com/Kenneth-Ye/ChariTree)
 
 ## Authors
 
@@ -27,4 +30,5 @@ Here's the code for out Django backend: [cool repo](https://github.com/Kenneth-Y
   - **Krish Patel**
   - **Kenneth Ye**
   - **Katherine Liu**
+
 
